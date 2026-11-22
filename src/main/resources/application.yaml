@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: asset-calculator
+
+asset-calculator:
+  console:
+    # Set to false to start the application without the interactive console (e.g. tests, CI).
+    enabled: true
